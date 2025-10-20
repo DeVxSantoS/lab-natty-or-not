@@ -1,51 +1,43 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Defesa em camadas: Fundamentos para a segurança da informação.
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Apresentação sobre o funcionamento e importância da implementação de múltiplas camadas de proteção em redes digitais para garantir a integridade, confiabilidade e disponibilidade de informações.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+IA generativa DeepSeek para pesquisa e roteirização;
+
+IA generativa Manus AI para criação dos slides e pesquisa das artes;
+
+Ferramenta Google Apresentações para edição dos slides.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+ Ao invés de pedir diretamente a Manus AI a apresentação, resolvi criar um roteiro de apresentação em markdown para guiar a manus e evitar a possibilidadede precisar gerar várias apresentações até conseguir um resultado satisfatório.
+
+1) Primeiro eu pedi para o DeepSeek fazer uma pesquisa detalhada sobre os temas, o resultado foram 3 dissertações dando casos reais, explicando os temas e embasando com fontes a apresentação. Em seguida refinei o texto e o usei como conteúdo para o próximo passo.
+
+2) Com a dissertação em mãos, usei novamente o DeepSeek, mas dessa vez pedi para que ele gerasse um roteiro de 10 slides em markdown usando como base as dissertações, assim a Manus AI saberá exatamente como construir os slides.
+
+3) Definindo o estilo do slide e usando o roteiro em markdown, a Manus AI criou uma apresentação completa com hot topics e imagens ilustrativas, ao mesmo tempo que os textos nos slides cobriam todo o conteúdo, sendo importado direto para meu drive.
+
+
+4) Ao final bastou apenas uma leve edição no slides para alinhar as caixas de texto e as imagens.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+A apresentação cobre os principais pontos dos temas com precisão e clareza, demonstrando como e porque se proteger digitalmente contra adversidades, desde o nível do usuário comum até a redes MAN corporativas. Tudo isso através de um processo de criação que minimiza o custo usado para criar boas apresentações usando planos gratuitos em IAs generativas.
+
+
+
+[LINK PARA A APRESENTAÇÃO AQUI](https://docs.google.com/presentation/d/1XMRrNMUlnhd6uuPpYc_vT54P2W08AbKi/edit?usp=drivesdk&ouid=116458815259521256094&rtpof=true&sd=true)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Não existe melhor maneira de aprender do que colocando em prática o conteúdo estudado. Entender as IAs como ferramenta para otimização de tempo é essencial para o mercado que nós espera.

@@ -38,7 +38,7 @@ A apresentação cobre os principais pontos dos temas com precisão e clareza, d
 
 
 
-[LINK PARA A APRESENTAÇÃO AQUI](Backup, Endpoint e Antivírus (1).pptx)
+[LINK PARA A APRESENTAÇÃO AQUI](https://github.com/DeVxSantoS/lab-natty-or-not/blob/5ad84f06876a081362681b55c66a70c25d6cc256/Backup%2C%20Endpoint%20e%20Antiv%C3%ADrus%20(1).pptx)
 
 
 ## 💭 Reflexão (Opcional)

@@ -38,7 +38,7 @@ A apresentação cobre os principais pontos dos temas com precisão e clareza, d
 
 
 
-[LINK PARA A APRESENTAÇÃO AQUI](https://docs.google.com/presentation/d/1XMRrNMUlnhd6uuPpYc_vT54P2W08AbKi/edit?usp=drivesdk&ouid=116458815259521256094&rtpof=true&sd=true)
+[LINK PARA A APRESENTAÇÃO AQUI](Backup, Endpoint e Antivírus (1).pptx)
 
 
 ## 💭 Reflexão (Opcional)
